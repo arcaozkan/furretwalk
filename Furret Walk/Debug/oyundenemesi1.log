@@ -1,0 +1,10 @@
+﻿  engine.cpp
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\engine.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\engine.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\engine.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\engine.cpp(9): warning C4244: '=' : conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\engine.cpp(10): warning C4244: '=' : conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\engine.cpp(11): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\engine.cpp(48): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\engine.cpp(181): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+  oyundenemesi1.vcxproj -> C:\Users\ozkan\Documents\Visual Studio 2012\Projects\oyundenemesi1\Debug\oyundenemesi1.exe

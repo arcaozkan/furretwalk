@@ -1,0 +1,17 @@
+﻿  Bob.cpp
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\bob.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  candy.cpp
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\candy.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  draw.cpp
+  engine.cpp
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\Engine.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  food.cpp
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\food.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  HelloSFML.cpp
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\Engine.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  input.cpp
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\Engine.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  stone.cpp
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\stone.h(1): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  update.cpp
+c:\users\ozkan\documents\visual studio 2012\projects\oyundenemesi1\oyundenemesi1\Engine.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
